@@ -1,4 +1,4 @@
-Virtual HPC Cluster
+Virtual HPC Cluster with Python!
 ===================
 
 This repository contains the framework for a very basic HPC cluster based on Vagrant, Ansible, and OpenHPC.  It is just enough to build four nodes, a frontend, and a master node on your laptop or desktop system.  From there, you can customize it however you wish!
